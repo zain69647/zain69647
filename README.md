@@ -80,7 +80,7 @@ A web-based PDF watermarking project designed for quickly adding watermarks to d
 
 A browser-based tool thats lets u to copy data across d/f accounts in seconds.
 
-**Repository:** [Drive-cloner]([https://github.com/zain69647/pdf-page-maste](https://github.com/zain69647/drive-cloner))
+**Repository:** [Drive-cloner](https://github.com/zain69647/drive-cloner.git)
 
 ---
 
